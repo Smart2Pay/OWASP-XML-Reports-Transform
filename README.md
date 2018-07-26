@@ -10,7 +10,7 @@ Just copy the file in the folder where you have the OWASP report in XML format a
 
 ```xml
 <?xml version="1.0"?>
-**<?xml-stylesheet type="text/xsl" href="owasp.xsl"?>**
+<?xml-stylesheet type="text/xsl" href="owasp.xsl"?>
 <OWASPZAPReport version="2.6.0" generated="Tue, 24 Jul 2018 07:48:40">
 [...]
 </OWASPZAPReport>
