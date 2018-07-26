@@ -18,4 +18,4 @@ Just copy the file in the folder where you have the OWASP report in XML format a
 
 ## Use
 
-Open the OWASP XML report file in a Mozilla / EDGE. Enjoy.
+Open the OWASP XML report file in Mozilla / EDGE. Enjoy.
