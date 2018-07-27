@@ -1,7 +1,5 @@
 # OWASP_XSLT
 
-## Description
-
 This is an XSLT file which displays the OWASP reports in XML format nicely in modern browsers.
 
 ## Installation
